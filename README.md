@@ -1,8 +1,8 @@
 # <p align = "center">Random Walks</p>
 
 <div>
-<img src = "https://github.com/user-attachments/assets/c8733ba3-cabb-4231-961b-0a37a060d190" alt="Image 1" height= "350" />
-<img src = "https://github.com/user-attachments/assets/2641e5c8-fb54-49a2-b7e2-f17bed28f6e5" alt="Image 2" height= "350"/>
+<img src = "https://github.com/user-attachments/assets/c8733ba3-cabb-4231-961b-0a37a060d190" alt="Image 1" width= "300" height= "350" />
+<img src = "https://github.com/user-attachments/assets/2641e5c8-fb54-49a2-b7e2-f17bed28f6e5" alt="Image 2" width= "300" height= "350"/>
 </div>
 
 ## Description
