@@ -8,6 +8,6 @@
 ## Description
 For this project I use MATLAB to create random walks; which are used to simulate the growth of the DGEBA(diglycidyl ether of bisphenol A) monomer. A popular liquid epoxy resin with a variety of industrial applications.
 
-## Explaination of the Code
+## Explaination
 To simulate the growth. I tested random walks on 6 different sizes in grams(8,500 | 17,000 | 51,000 | 170,000 | 680,000 | 2,040,000) labeled in the code as cases. The molar mass of a single one is 340 grams; with a length of 10 Angstrom.
 
